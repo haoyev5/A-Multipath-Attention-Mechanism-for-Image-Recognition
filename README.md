@@ -17,11 +17,11 @@ The overall architecture of MAM. The MAM consists of a channel attention module 
 
 ## Requirements
 
-* Python3
-* CUDA = 10.1
-* MXNet = 1.5.1
-* d2lzh
-* matplotlib
+* **Python3**
+* **CUDA = 10.1**
+* **MXNet = 1.5.1**
+* **d2lzh**
+* **matplotlib**
 
 
 
