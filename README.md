@@ -1,7 +1,6 @@
 # code-MAMNet
 # MAM: A Multipath Attention Mechanism for Image Recognition
 
----
 
 The MXNet implementation of "MAM: A Multipath Attention Mechanism for Image Recognition"
 
@@ -9,7 +8,6 @@ The MXNet implementation of "MAM: A Multipath Attention Mechanism for Image Reco
 
 ## Structure
 
----
 
 The overall architecture of MAM. The MAM consists of a channel attention module (CAM) and a spatial attention module (SAM). Channel attention models the correlation between feature channels and improves performance by enhancing essential features. Spatial attention captures the multi-scale information of interest regions in the featuremaps through multi-path.
 
