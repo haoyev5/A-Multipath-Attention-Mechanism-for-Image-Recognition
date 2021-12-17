@@ -45,7 +45,5 @@ Quantitative evaluation results of Grad-CAM. Comparison of visualization results
 
 ## Citation
 
-MAM: A Multipath Attention Mechanism for Image Recognition (Revised).
-
-
+Zhang, H., Peng, G., Wu, Z., Gong, J., Xu, D., Shi, H.: MAM: A multipath attention mechanism for image recognition. *IET Image Process.* 00, 1– 12 (2021). https://doi.org/10.1049/ipr2.12370
 
