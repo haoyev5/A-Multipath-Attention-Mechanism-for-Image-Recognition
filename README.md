@@ -45,15 +45,15 @@ Quantitative evaluation results of Grad-CAM. Comparison of visualization results
 
 ## Citation
 
-> @article{https://doi.org/10.1049/ipr2.12370,
-&nbsp; &nbsp; &nbsp; &nbsp; author = {Zhang, Hao and Peng, Guoqin and Wu, Zhichao and Gong, Jian and Xu, Dan and Shi, Hongzhen},
-&nbsp; &nbsp; &nbsp; &nbsp; title = {MAM: A multipath attention mechanism for image recognition},
-&nbsp; &nbsp; &nbsp; &nbsp; journal = {IET Image Processing},
-&nbsp; &nbsp; &nbsp; &nbsp; volume = {16},
-&nbsp; &nbsp; &nbsp; &nbsp; number = {3},
-&nbsp; &nbsp; &nbsp; &nbsp; pages = {691-702},
-&nbsp; &nbsp; &nbsp; &nbsp; doi = {https://doi.org/10.1049/ipr2.12370},
-&nbsp; &nbsp; &nbsp; &nbsp; url = {https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/ipr2.12370},
-&nbsp; &nbsp; &nbsp; &nbsp; year = {2022}
+> @article{https://doi.org/10.1049/ipr2.12370,<br>
+&nbsp; &nbsp; &nbsp; &nbsp; author = {Zhang, Hao and Peng, Guoqin and Wu, Zhichao and Gong, Jian and Xu, Dan and Shi, Hongzhen},<br>
+&nbsp; &nbsp; &nbsp; &nbsp; title = {MAM: A multipath attention mechanism for image recognition},<br>
+&nbsp; &nbsp; &nbsp; &nbsp; journal = {IET Image Processing},<br>
+&nbsp; &nbsp; &nbsp; &nbsp; volume = {16},<br>
+&nbsp; &nbsp; &nbsp; &nbsp; number = {3},<br>
+&nbsp; &nbsp; &nbsp; &nbsp; pages = {691-702},<br>
+&nbsp; &nbsp; &nbsp; &nbsp; doi = {https://doi.org/10.1049/ipr2.12370},<br>
+&nbsp; &nbsp; &nbsp; &nbsp; url = {https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/ipr2.12370},<br>
+&nbsp; &nbsp; &nbsp; &nbsp; year = {2022}<br>
 }
 
